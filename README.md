@@ -1,2 +1,2 @@
-# HTMl-Resume
+# HTML-Resume
 my 1st HTML project
